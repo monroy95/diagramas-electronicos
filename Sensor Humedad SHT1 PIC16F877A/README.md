@@ -9,4 +9,4 @@
 
 **Compila el archivo .c para obtener el .HEX y quemarlo en el microcontrolador**
 
-![Texto alternativo](/SHT71.PNG)
+![Diagrama](SHT71.PNG)
